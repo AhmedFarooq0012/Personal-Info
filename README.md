@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AhmedFarooq0012
+- 👋 Hi, I’m AhmedFarooq
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Android | Room Db | Restful API'S | MVVM Architecture and also IOS Swift UI technique.  how they can be applied to solve real-world problems.
+- 🌱 I’m currently learning Android Kotlin | Room Db | Restful API'S | MVVM Architecture and also IOS Swift UI technique.  how they can be applied to solve real-world problems.
 - 💞️ I’m looking to collaborate on projects that aim to make a positive difference in people's lives, whether through educational platforms, healthcare innovations, or community development initiatives.
 - 📫 How to reach me on linkedIn www.linkedin.com/in/ahmedfarooq-abbasi
 - 😄 Pronouns: He/Him
